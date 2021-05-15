@@ -1,2 +1,2 @@
 # Module-2
-This is a basic HTML project
+This is a basic HTML project.
